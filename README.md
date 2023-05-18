@@ -11,10 +11,10 @@ python repo and your Project. You can Upgrade the features of this Music Player
 
 ###  Author Details
 ```
-    Suraj Singh
+    Amir Whasim
     Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
+    A.W Group
+    Amir.Whasim@gmail.com
     http://www.bitforestinfo.com
 ```
 
@@ -50,7 +50,7 @@ There Are 2 Methods.
 
 1. Send Your Updated Version On My Email.
 
-- surajsinghbisht054@gmail.com
+- Amir.Whasim@gmail.com
 
 
 -----
